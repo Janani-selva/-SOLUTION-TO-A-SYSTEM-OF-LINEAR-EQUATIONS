@@ -26,6 +26,7 @@ print(result)
 ```
 
 ## Output:
+
 ![output](output.png)
 
 ## Result: 
